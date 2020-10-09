@@ -3,4 +3,3 @@ set show-mode-in-prompt on
 "\C-p": history-search-backward
 "\C-n": history-search-forward
 set keymap vi-insert
-"jk": vi-movement-mode
